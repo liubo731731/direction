@@ -3,7 +3,7 @@
 ### 使用参数订阅URL为你之前的地址，这个不会变，软件客户端除了ios新版本的不需要升级，其他版本的请自己按照各自教程进行升级 
 
 ### 教程地址: 
-### window: https://direction-hvjdt4ml-liubo731731.4everland.app/?file=doc/window
-### ios：https://direction-hvjdt4ml-liubo731731.4everland.app/?file=doc/ios
-### 安卓: https://direction-hvjdt4ml-liubo731731.4everland.app/?file=doc/android 
-### mac: https://direction-hvjdt4ml-liubo731731.4everland.app/?file=doc/mac
+### window: https://direction.4everland.app/?file=doc/window
+### ios：https://direction.4everland.app/?file=doc/ios
+### 安卓: https://direction.4everland.app/?file=doc/android 
+### mac: https://direction.4everland.app/?file=doc/mac
